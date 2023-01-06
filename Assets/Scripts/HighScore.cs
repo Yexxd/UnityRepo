@@ -55,6 +55,7 @@ public class HighScore : MonoBehaviour
         {
             file.Close();
         }
+        
     }
 }
 
